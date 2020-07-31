@@ -3,12 +3,12 @@
       <section class="row-fluid">
         <section class="span6">
           <ul class="top-nav">
-                       <li><a href="index.php">Book Garden</a></li>
+            <li><a href="index.php">Book Garden</a></li>
             <li><a href="contact.php">Liên hệ</a></li>
-          </ul>           
+          </ul>
         </section>
         <section class="span6 e-commerce-list">
-           <ul>
+          <ul>
             <li id="fullname"><?php if(!empty($_SESSION["user"]["fullname"])) echo "Chào bạn, " . $_SESSION["user"]["fullname"] . "! <a href='logout.php'>Đăng xuất</a>"; ?></li>
             <li hidden id="username"><?php echo $_SESSION["user"]["username"]?></li>
             <li class="please_login">Chào bạn! <a href="login.php">Đăng nhập</a> hoặc <a href="reg.php">Đăng ký</a></li>
@@ -24,12 +24,9 @@
                     <br>
                     <p><a href="" id="continue_shopping_empty_cart" class="my1-btn continue_shopping">Tiếp tục mua hàng</a></p>
                 </div>
-
                 <!-- End Popup -->
             </div>
-
           </div>
-         
         </section>
       </section>
     </section>

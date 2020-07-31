@@ -33,7 +33,7 @@
         </figure>
         <figure class="span3">
           <h4>Địa chỉ</h4>
-            <p>137E Nguyễn Chí Thanh,Phường 9, Quận 5, Hồ Chí Minh</p>
+            <p>Khu phố 6, Thủ Đức, Thành phố Hồ Chí Minh</p>
             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d62714.81226808522!2d106.63183937910156!3d10.759452500000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752ee1ff354f3f%3A0x18f40d9f2c7f8e18!2zVHJ1bmcgVMOibSBUaW4gSOG7jWMgLSDEkEggS2hvYSBI4buNYyBU4buxIE5oacOqbiAoQ1MyKQ!5e0!3m2!1svi!2s!4v1498377688430" width="300" height="200" frameborder="0" style="border:0" allowfullscreen></iframe>
         </figure>
       </section>

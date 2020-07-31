@@ -28,7 +28,7 @@ class C_book
 
 		//////////View//////////
         //Title
-        $site_title="Book Garden";
+        $site_title="Vườn ngôn từ";
 
         //Content Holder
         $content="views/book/v_book_homepage.php";
